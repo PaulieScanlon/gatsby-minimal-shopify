@@ -1,0 +1,31 @@
+{
+  "name": "gatsby-minimal-shopify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "serve": "gatsby serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/gatsby-minimal-shopify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/gatsby-minimal-shopify/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/gatsby-minimal-shopify#readme",
+  "dependencies": {
+    "gatsby": "^4.18.0",
+    "gatsby-plugin-image": "^2.18.0",
+    "gatsby-source-shopify": "^7.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
